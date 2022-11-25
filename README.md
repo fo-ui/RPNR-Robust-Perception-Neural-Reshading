@@ -1,7 +1,7 @@
 # RPNR-Robust-Perception-Neural-Reshading
 
 ## Authors
-This repository's contributors are students who volunteered their time to research the problem and design the pipeline. The code is continuously being updated and improved. Work is done as an open source side project.
+This repository's contributors are students who volunteered their time to research the problem and design the pipeline. The code is continuously being updated. Work is done as an open source side project.
 
 ## *ABSTRACT*
 
