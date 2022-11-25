@@ -1,8 +1,5 @@
 # RPNR-Robust-Perception-Neural-Reshading
 
-## Authors
-This repository's contributors are students who volunteered their time to research the problem and design the pipeline. The code is continuously being updated. Work is done as an open source side project.
-
 ## *ABSTRACT*
 
 *Augmented Reality (AR) applications necessitates methods of inserting needed objects into scenes captured by cameras in a way that is coherent with the surroundings.*
@@ -12,6 +9,9 @@ This repository's contributors are students who volunteered their time to resear
 ## *KEYWORDS*
 
 *Reshading, Cut-and-Paste, DIP, GANs*
+
+## Authors
+This repository's contributors are students who volunteered their time to research the problem and design the pipeline. The code is continuously being updated. Work is done as an open source side project.
 
 ## Contributions
 We welcome your suggestions for improvements. If you have any questions, just let us know.
